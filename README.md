@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I contributed to a Gsoc Org **SageMath**
+- 🔭 I contributed to a Gsoc Org **SageMath** and **Learning Unlimited**
 - 🌱 Learning **Mathematics, Backend Development & Automation**
 - 💡 Interested in **Advanced Python, Open Source Engineering & AI Systems**
 - ⚡ Building projects that solve real-world problems
