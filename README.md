@@ -39,17 +39,25 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanntnagar&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hemanntnagar&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanntnagar&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=hemanntnagar&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanntnagar&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanntnagar&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
