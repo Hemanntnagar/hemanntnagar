@@ -146,7 +146,7 @@ AI-assisted event planning for budgets, vendors, guests, invitations, and team r
 | LinkedIn | [linkedin.com/in/hemanntnagar](https://linkedin.com/in/hemanntnagar) |
 | X (Twitter) | [x.com/hemanntnagar](https://x.com/hemanntnagar) |
 | Portfolio / Product | [ominiflow.com](https://ominiflow.com) |
-| Email | [nagar.hemant003@example.com](mailto:nagar.hemant003@example.com) |
+| Email | [nagar.hemant003@example.com](mailto:nagar.hemant003@gmail.com) |
 | GitHub | [github.com/Hemanntnagar](https://github.com/Hemanntnagar) |
 
 ---
