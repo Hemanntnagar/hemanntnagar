@@ -50,7 +50,7 @@ Currently building at **[Ominiflow](https://ominiflow.com)** — a WhatsApp Busi
 | --- | --- |
 | Product | WhatsApp automation, shared inbox, and no-code chatbot workflows at [Ominiflow](https://ominiflow.com) |
 | Learning | Advanced Python, backend architecture, mathematics, and AI systems |
-| Open Source | Contributions around GSoC orgs **SageMath** and **Learning Unlimited** |
+| Open Source | Contributions around GSoC orgs |
 
 ---
 
@@ -65,25 +65,6 @@ Full-stack movement game with QR checkpoints, streaks, squads, and MediaPipe-pow
 AI-assisted event planning for budgets, vendors, guests, invitations, and team roles.  
 **Stack:** TypeScript · Next.js · Supabase · OpenAI  
 **Live:** [celebrate-ai-phase-1.vercel.app](https://celebrate-ai-phase-1.vercel.app)
-
-### [Bee Loop](https://github.com/Hemanntnagar/Bee_AI)
-Study + commitment companion that turns wearable conversations into spaced-repetition cards and todos.  
-**Stack:** TypeScript · Next.js · Bee CLI  
-**Live:** [bee-loop.vercel.app](https://bee-loop.vercel.app)
-
-### [Pramaan](https://github.com/Hemanntnagar/pramaan)
-Audit-verification tool for recycled-plastic claims — explainable checks, risk scoring, and PDF reports.  
-**Stack:** Python · Gemini · SQLite  
-**Live:** [pramaan-psf6.vercel.app](https://pramaan-psf6.vercel.app)
-
-### [EDUverse](https://github.com/Hemanntnagar/Eduverse-gamified_learning)
-Gamified learning platform with XP, achievements, courses, social features, and leaderboards.  
-**Stack:** React · Node.js · Express · MongoDB · Socket.io
-
-### [Carbon Footprint Tracker](https://github.com/Hemanntnagar/carbon-footprint-tracker)
-Track and visualize personal environmental impact.  
-**Stack:** Next.js · TypeScript  
-**Live:** [carbon-footprint-tracker-gules.vercel.app](https://carbon-footprint-tracker-gules.vercel.app)
 
 ---
 
@@ -103,7 +84,6 @@ Track and visualize personal environmental impact.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
